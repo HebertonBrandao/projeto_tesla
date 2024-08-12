@@ -7,5 +7,4 @@
 
 <p> Nesse projeto tive a oportunidade de realizar um projeto clone do site da Tesla, aplicando meus conhecimentos de HTML, CSS e JavaScript. </p>
 
-<img src"https://github.com/HebertonBrandao/projeto_tesla/blob/main/Tela%20inicial%20.png?raw=true">
-
+<img src"https://github.com/HebertonBrandao/projeto_tesla/blob/main/Tela%20inicial%20.png?raw=true"/>
